@@ -1,0 +1,13 @@
+Question 1
+Please list down your assumptions & caveats of the system that you have developed.
+
+My assumptions of the system that I develop will be:
+•	The CCTV camera is assumed to be positioned at a fixed, elevated angle, offering a top-down view to reduce occlusion and simplify vehicle tracking.
+•	The system assumes relatively consistent lighting throughout the day, as sudden changes like sun glare or headlights could impact detection accuracy.
+•	The roads are expected to have clear markings, such as lanes and pedestrian crossings, to aid in more accurate vehicle tracking.
+
+My caveats for the system that I develop will be:
+•	Despite a top-down view, vehicles may still be partially occluded by larger objects like trucks or buses, leading to missed detections or tracking errors.
+•	Weather conditions such as rain, fog, or snow can reduce vehicle visibility, affecting the system's accuracy.
+•	The system's accuracy in vehicle tracking and counting relies heavily on the video stream's resolution, with low-resolution footage potentially causing inaccuracies, especially for smaller vehicles.
+
