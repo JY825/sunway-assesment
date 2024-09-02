@@ -10,4 +10,4 @@ My caveats for the system that I develop will be:
 •	Despite a top-down view, vehicles may still be partially occluded by larger objects like trucks or buses, leading to missed detections or tracking errors.
 •	Weather conditions such as rain, fog, or snow can reduce vehicle visibility, affecting the system's accuracy.
 •	The system's accuracy in vehicle tracking and counting relies heavily on the video stream's resolution, with low-resolution footage potentially causing inaccuracies, especially for smaller vehicles.
-
+•	The implementation of the system must comply with PDPA regulations, which may require anonymizing or safeguarding any personal data inadvertently captured in the video footage, potentially complicating the tracking process.
